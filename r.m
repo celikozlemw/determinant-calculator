@@ -19,6 +19,7 @@ end
 %TEST
 
 
+
 A=rand(2);%rastgele 
 DA=det(A) %-0.0637
 
